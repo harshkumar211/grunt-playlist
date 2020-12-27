@@ -1,0 +1,16 @@
+Installing grunt.js
+
+-- Install node.js
+-- Install grunt-cli globally
+-- Create a  package.json files
+-- Install grunt locally
+-- create a Gruntfile.js
+-- install plugins
+
+
+
+GruntFile.js
+
+-- configure our tasks and tells plugin where to find certain files
+-- Load plugins into the file(uglify)
+-- Register tasks which need to be certain
